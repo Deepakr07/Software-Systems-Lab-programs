@@ -1,0 +1,4 @@
+read n1
+read n2
+n3=$((n1*n2))
+echo "product = $n3"
